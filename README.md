@@ -74,7 +74,7 @@ Each labeled sample will save a JSON file (same filename as the image) in the la
   [0, 0, 0, 0, 0]
 ]
 ```
-NOTE:
+**Note**
 
     All input images must be placed in the images/ folder.
 
